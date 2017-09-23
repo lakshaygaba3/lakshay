@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<head>
+<link href="http://dash.ga.co/normalize.css" rel="stylesheet">
+<style>
+body{
+  background-color: blue;
+}
+header{
+  background:url("https://scontent-bom1-1.xx.fbcdn.net/v/t1.0-9/14568100_1138770859552152_554465604742514411_n.jpg?oh=5e47f071f44b3b718e34471ad14853db&oe=5A553F43");
+  background-size: cover;
+  background-position: center;
+  text-align:center;
+}
+p{
+  text-align: justify;
+  color: black;
+  margin: 0px 0px 0px 0px;
+  border: 10px 10px 10px 10px;
+}
+
+a{
+  color: white;
+  text-decoration: none;
+}
+a:hover{
+  color:red;
+}
+h1{
+  text-align: center;
+  font-size: 46px;
+  margin: auto;
+  color: white;
+  padding: 10px 10px 10px 10px;
+}
+img{
+  margin:40px 0px 0px 0px;
+  border:10px solid white;
+  border-radius: 20%;
+  width: 250px;
+  height: 250px;
+}
+ul{
+background: rgba(0, 0, 0, 0.35);
+ padding: 0px;
+}
+li{
+  display: inline-block;
+  padding: 10px 20px 10px 20px;
+  font-size: 24px;
+  background-color: rgba(255,0,0,0.3);
+
+}
+h2{
+  color: black;
+  text-decoration: underline;
+  text-indent: inherit;
+}
+article{
+  text-align: center;
+  width: 100%;
+margin: 0 auto;
+
+}
+body{
+  color: grey;
+  font-size:24px;
+}
+@media (max-width:444px) {
+  li{
+    display: block;
+  }
+  h1{
+    font-size: 30px;
+  }
+  article{
+    width: 100%;
+  margin: 0;
+  background-color: grey;
+}
+}
+@media (max-width:320px) {
+  h1{
+    font-size: 20px;
+  }
+  article{
+    width: 100%;
+  margin: 0;
+}
+}
+</style>
+</head>
+<body>
+<header>
+<img src=https://scontent.fdel2-1.fna.fbcdn.net/v/t1.0-9/17156013_1457190204332918_9072586807081897981_n.jpg?oh=bcf910ba7471aecb3e326e6e77bb404c&oe=5A4A8610>
+<h1>LOVE BLOG</h1>
+<ul>
+<li><a href="http://www.google.com">GOOGLE</a></li>
+<li><a href="http://gmail.com">GMAIL</a></li>
+<li><a href="http://facebook.com">FACEBOOK</a></li>
+</ul>
+</header>
+<article>
+<h2>VHS umami pop-up trust fund</h2>
+<p>Marfa church-key kitsch bicycle rights, 8-bit mixtape cardigan gentrify Echo Park. Street art swag brunch, next level roof party Schlitz hella organic keffiyeh selfies. You probably haven't heard of them polaroid hashtag +1, meggings biodiesel Portland High Life cray tumblr retro.</p>
+</article>
+<article>
+<h2>Sartorial synth Echo Park, roof party</h2>
+<p>chambray you probably haven't heard of them pour-over viral selvage umami skateboard VHS post-ironic selfies. Wes Anderson gentrify fanny pack twee, bicycle rights bitters blog keffiyeh plaid flannel. Tonx irony cliche sustainable mlkshk bitters. Four loko leggings chambray Vice.</p>
+</article>
+<article>
+<h2>Forage food truck keytar master cleanse</h2>
+<p>ethical thundercats sustainable locavore quinoa Neutra. Aesthetic tacky sweater single-origin coffee, bicycle rights organic lo-fi street art american apparel ennui four loko ethnic Brooklyn small batch. Forage YOLO polaroid</p>
+</article>
+
+</body>
