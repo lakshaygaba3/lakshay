@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<head>
+<title>lakshay</title>
+<style>
+body{
+  text-align: center;
+  color: white;
+  background: url("http://www.androidguys.com/wp-content/uploads/2015/06/Super-Hero-Wallpaper-Featured.jpg");
+  font-size:24px;
+  background-position: center;
+  background-size: auto;
+  font-family:helvetica;
+  }
+  p{
+    font-size: 26px;
+    color:grey;
+    margin: 0px 0px 0px 0px;
+  }
+  input[type="text"]
+  {
+    border: 15px;
+    padding:15px;
+    font-size: 18px;
+  background: cream;
+  color:white;
+  border-radius: 30px;
+}
+  input
+  {
+    border: 10px;
+    padding:10px;
+    font-size: 10px;
+  }
+    input[type="submit"]
+    {
+    background:grey;
+    color:black;
+    border: 10px;
+    padding:10px;
+    font-size: 18px;
+    text-align: left;
+    border-radius: 30%;
+  }
+  ul{
+    padding:0px 10x 0px 10px;
+    background: black;
+  }
+  li{
+    display: inline-block;
+    padding: 10px 10px 10px 10px;
+    background: grey;
+  }
+  img{
+     margin:40px 0px 0px 0px
+    border:10px solid black;
+    border-radius: 500px;
+    width: 200px;
+    height: 200px;
+  }
+</style>
+</head>
+<body>
+  <ul>
+  <li><a href="http://www.google.com">HOME</a></li>
+  <li><a href="http://gmail.com">GALLERY</a></li>
+  <li><a href="http://facebook.com">ABOUT</a></li>
+</ul>
+<hr><img src=https://scontent.fdel2-1.fna.fbcdn.net/v/t1.0-9/17156013_1457190204332918_9072586807081897981_n.jpg?oh=bcf910ba7471aecb3e326e6e77bb404c&oe=5A4A8610>
+<h1>LAKSHAY GABA</h1>
+<p>Hey, I'm lakshay gaba from kurukshetra,haryana,india.</p>
+<p>I'm pursuing engineering from UIET,KUK.I love to Travell</p>
+<input type="text"  placeholder="your email">
+<input type="submit">
+</body>
